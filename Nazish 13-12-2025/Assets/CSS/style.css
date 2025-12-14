@@ -1,0 +1,74 @@
+ body {
+      background: #f4f8f7;
+      font-family: "Segoe UI", sans-serif;
+    }
+
+    /* Navbar */
+    .navbar {
+      padding: 18px 0;
+    }
+
+    .signup-btn {
+      background: #6f8f8a;
+      color: #fff;
+      border-radius: 20px;
+      padding: 6px 18px;
+    }
+
+    /* Hero */
+    .hero {
+      padding: 80px 0 60px;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-weight: 600;
+      color: #4a4a4a;
+    }
+
+    .hero h1 span {
+      color: #6f8f8a;
+    }
+
+    .hero p {
+      color: #8b8b8b;
+      max-width: 600px;
+      margin: 15px auto 30px;
+    }
+
+    .btn-primary-custom {
+      background: #6f8f8a;
+      border: none;
+      border-radius: 20px;
+      padding: 10px 22px;
+    }
+
+    .btn-outline-custom {
+      border-radius: 20px;
+      padding: 10px 22px;
+    }
+
+    /* Cards */
+    .info-card {
+      border-radius: 18px;
+      padding: 24px;
+      height: 100%;
+    }
+
+    .card-dark {
+      background: #6f8f8a;
+      color: #fff;
+    }
+
+    .card-light {
+      background: #e9f5df;
+    }
+
+    .card-white {
+      background: #fff;
+    }
+
+    .stat {
+      font-size: 28px;
+      font-weight: 600;
+    }
